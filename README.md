@@ -90,11 +90,12 @@ $ npm start
 #
 # ⚡ Support
 <div align="center">
-    <h3 align="center">Thanks for the Support</h3><br>
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" /> 
     <br><br>
-    <a href="">
+    <h3 align="center">Thanks for the Support</h3><br>
+    <a href="https://pay.upilink.in/pay/richuantonu38@oksbi?am=100">
 	    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
     </a>
 </div>
+
