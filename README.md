@@ -16,6 +16,9 @@
         <img src="https://img.shields.io/github/repo-size/Richu-Antony/DALL-E_Ai_Art_Generation" alt="GitHub Badge">
     </a>
     <a href="">
+        <img src="https://img.shields.io/github/languages/top/Richu-Antony/DALL-E_Ai_Art_Generation?style" alt="GitHub Badge">
+    </a>
+    <a href="">
         <img src="https://komarev.com/ghpvc/?username=Richu-Antony">
     </a>
     <a href="">
@@ -24,7 +27,7 @@
     <a href="https://twitter.com/richu_antony">
         <img src="https://img.shields.io/github/followers/Richu-Antony?label=Followers&style=social" alt="GitHub Badge">
     </a>
-    <a href="">
+    <a href="https://twitter.com/richu_antony">
         <img src="https://img.shields.io/twitter/follow/richu_antony?style=social" alt="GitHub Badge">
     </a>
 </p>
@@ -73,12 +76,12 @@ $ npm start
 # 🌌 Screenshots
 <div style="text-align: center;">
     <img
-    src="Screenshot (1).png"
+    src="Screenshots/Screenshot (1).png"
     alt="Alt text"
     title="Optional title"
     style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
     <img
-    src="Screenshot (2).png"
+    src="Screenshots/Screenshot (2).png"
     alt="Alt text"
     title="Optional title"
     style="display: inline-block; margin: 0 auto; max-width: 500px">
@@ -91,7 +94,9 @@ $ npm start
 # ⚡ Support
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" /> 
+    <a href="https://www.linkedin.com/in/richu-antony-a12817200/">
+      <img src="https://forthebadge.com/images/badges/built-by-developers.svg" /> 
+    </a>
     <br><br>
     <a href="upi://pay?pa=richuantony38@oksbi&pn=Richu Antony&am=100.00&cu=INR&aid=uGICAgIC1yrWyKQ" class="upi-pay1">
 	    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
