@@ -1,15 +1,16 @@
 <!-- Logo and Title-->
 
-<a href="#">
-  <img width="100%" height="auto" src="OpenAI_Logo.svg" height="150px" style="bg-color:pink"/>
-</a>&nbsp;
-
 <h1 style="text-align:center; font-size:30px; color:pink;">
     DALL-E AI Art Generation
 </h1>
 
+<a href="#">
+  <img width="100%" height="auto" src="Richu Antony.png" style="bg-color:pink"/>
+</a>
 
-## 🙋‍♂️ About Me
+
+## 🍭 How to use it
+
 
 - 🔭 I’m currently studying MCA
 
