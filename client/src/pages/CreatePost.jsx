@@ -27,7 +27,7 @@ const CreatePost = () => {
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({ prompt: form.prompt }),
-        })
+        });
 
         const data = await response.json();
 
@@ -40,8 +40,7 @@ const CreatePost = () => {
     } else {
       alert('Please enter a prompt');
     }
-
-  }
+  };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -72,12 +71,12 @@ const CreatePost = () => {
 
   const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
-  }
+  };
 
   const handleSurpriseMe = () => {
     const randomPrompt = getRandomPrompt(form.prompt);
     setForm({ ...form, prompt: randomPrompt });
-  }
+  };
 
 
 
