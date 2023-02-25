@@ -93,7 +93,7 @@ $ npm start
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" /> 
     <br><br>
-    <a href="upi://pay?pa=richuantony38@oksbi&pn=Richu Antony&am=100.00&cu=INR&aid=uGICAgIC1yrWyKQ">
+    <a href="upi://pay?pa=richuantony38@oksbi&pn=Richu Antony&am=100.00&cu=INR&aid=uGICAgIC1yrWyKQ" class="upi-pay1">
 	    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
     </a><br><br>
       <p align="center">Thanks for the Support</p>
