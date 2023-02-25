@@ -95,7 +95,6 @@ $ npm start
     <br><br>
     <a href="https://pay.upilink.in/pay/richuantonu38@oksbi?am=100">
 	    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-    </a>
-      <h3 align="center">Thanks for the Support</h3><br>
+    </a><br><br>
+      <p align="center">Thanks for the Support</p>
 </div>
-
