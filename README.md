@@ -5,7 +5,7 @@
 
 <!-- Logo and Title -->
 <a href="#">
-  <img width="100%" height="auto" src="Richu Antony.png" style="bg-color:pink"/>
+  <img width="100%" height="auto" src="Screenshots/Richu Antony.png" style="bg-color:pink"/>
 </a>
 
 
