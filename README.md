@@ -4,10 +4,7 @@
   <img width="100%" height="auto" src="Richu Antony.png" style="bg-color:pink"/>
 </a>
 
-<h1 style="text-align:center; font-size:30px; color:pink;">
-    DALL-E AI Art Generation
-</h1>
-
+<h1 align="center"> DALL-E AI Art Generation </h1>
 
 ## 🍭 How to use it
 
@@ -37,7 +34,7 @@
     style="display: inline-block; margin: 0 auto; max-width: 500px">
 </div>
 
-<h1 align="center">Welcome to readme-md-generator </h1>
+
 <p align="center">
   <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
   <a href="https://www.npmjs.com/package/readme-md-generator">
